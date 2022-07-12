@@ -6,6 +6,8 @@ namespace ConsoleGit
     {
         static void Main(string[] args)
         {
+            int a = int.Parse(Console.ReadLine());
+            Console.WriteLine(a);
             Console.WriteLine("Hello World!");
         }
     }
