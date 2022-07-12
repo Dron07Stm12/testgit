@@ -4,9 +4,9 @@ using System.Text;
 
 namespace ConsoleGit
 {
-    internal class Class1
+    public class Class1
     {
-        public int Foo(int a)
+        public static int Foo(int a)
         { 
             return a*2; 
         }   
